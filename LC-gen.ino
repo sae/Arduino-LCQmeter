@@ -3,8 +3,7 @@ simplest LC-generator on arduino
 can be used as lc-meter
 (C)SAE762 07.feb.2015 @home
 
-circuit diagramm will be placed here:
-
+circuit diagramm D2---R(100...1000)---D6---LC---GND; D7---GND
 
 useful lc-calculators:
 http://tel-spb.ru/lc.html  
